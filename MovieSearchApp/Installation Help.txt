@@ -1,6 +1,12 @@
 To start this program
-•	Start XAMPP control panel from windows files.
-•	Start Apache and MySQL from XAMPP control panel.
-	(if required the .sql file to deploy the database is included)
-•	Open Movie Search folder.
-•	double click on MovieSearchApp.jar file.
+1.	Download and install XAMPP
+2.	Run the XAMPP control panel within its file location
+3.	Start the apache and MySQL options within the XAMPP control panel
+4.	Open an internet browser and enter http://localhost/phpmyadmin/index.php
+5.	Select ‘New’ in the left side navigation menu.
+6.	Select the ‘Import’ tab in the navigation menu near the top of the screen
+7.	Select ‘Choose file’ and select the ‘dvd_titles.sql’ file supplied to you.
+8.	Select the ‘Go’ button at the bottom of the page.
+9.	Close the browser window.
+10.	Open the ‘Movie Search’ folder provided to you
+11.	Double click on the ‘MovieSearchApp’ file
